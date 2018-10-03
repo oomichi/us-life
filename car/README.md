@@ -7,5 +7,10 @@ Costco年会費が60ドルなので、20回入れればそれだけで元が取�
 
 Maintenance
 ===========
-Toyotaの車ならTLS Auto Service[1] が親切で安い。
-[1]: https://www.yelp.com/biz/tls-auto-service-san-jose-6
+Toyotaの車ならTLS Auto Service が親切で安い。
+- https://www.yelp.com/biz/tls-auto-service-san-jose-6
+
+Car Wash
+========
+洗車なら New Bay Car Washが安い。
+- https://goo.gl/maps/BscrrXVrP4m
